@@ -1,2 +1,2 @@
-# timer-Itop-1000
-test-work-itop-1000
+link to the website
+https://alex-main-academy.github.io/timer-Itop-1000/
